@@ -2,7 +2,7 @@
 
 > Note: Its better to add your name somewhere in the middle, and not the end!
 >
-> نکته: بهتره اسمتون رو یه جایی وسط لیست اضافه کنین و نه دقیقا آخر لیست
+> نکته: بهتره اسمتون رو یه جایی وسط لیست اضافه کنین 
 
 This is a repo for testing your git abilities. try to add your name to this file
 
